@@ -1,0 +1,15 @@
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+C:\TALLERDELENGUAJES1\tl1-tp9-2025-NicooArroyoo\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
